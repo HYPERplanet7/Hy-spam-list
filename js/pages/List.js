@@ -106,7 +106,7 @@ export default {
                         Level must be physically possible
                     </p>
                     <p>
-                        Level must have more than 100 cps
+                        Level must have more than 100 cps gaps
                     </p>
                     <p>
                         levels must be showcased without noclip
