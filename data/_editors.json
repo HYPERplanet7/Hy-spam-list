@@ -5,23 +5,18 @@
         "link": "https://www.youtube.com/@smega6383"
     },
     {
-        "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "owner",
+        "name": "kachu178",
+        "link": "https://www.youtube.com/@kachu178"
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "kachu178",
+        "link": "https://www.youtube.com/@kachu178"
+    },
+    {
+        "role": "admin",
+        "name": "kachu178",
+        "link": "https://www.youtube.com/@kachu178"
     }
 ]
