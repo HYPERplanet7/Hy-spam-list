@@ -5,7 +5,7 @@
     "creators": ["hyperplanet"],
     "verification": "https://youtu.be/onYcNVxWU-g?si=1EBZ7KktFUzFlwVP",
     "percentToQualify": "100",
-    "CPS": "480",
+    "cps": "480",
     "records": [
     ]
 }
